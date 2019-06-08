@@ -1,0 +1,33 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "description": "crud node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcrud"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailsonIsrael/crudnodejs.git"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "js",
+    "nodejs",
+    "node.js",
+    "crud",
+    "mongodb",
+    "mongo",
+    "nodecrud"
+  ],
+  "author": "Nailson Israel (Eu programador)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailsonIsrael/crudnodejs/issues"
+  },
+  "homepage": "https://github.com/nailsonIsrael/crudnodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
